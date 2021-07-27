@@ -3,5 +3,6 @@ Radio_NG
 
 ### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+Dernière version du Nano_Ubuntu, uniquement Musique et Mouv
+Voir: https://knolleary.net/node-red-workshop-photobooth/part4/one-more-thing.html
+Pour l'accés github on peut utiliser token plutot que mot de passe 
